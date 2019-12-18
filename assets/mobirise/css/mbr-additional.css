@@ -958,6 +958,11 @@ section.lazy-placeholder:after {
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rKKg0E3VFo .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-rKKg0E3VFo .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1515,6 +1520,11 @@ section.lazy-placeholder:after {
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rKKg0E3VFo .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-rKKg0E3VFo .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2039,6 +2049,11 @@ section.lazy-placeholder:after {
 .cid-rKVGPhaIXW .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rKVGPhaIXW .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-rKVGPhaIXW .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2559,6 +2574,11 @@ section.lazy-placeholder:after {
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-rKKg0E3VFo .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rKKg0E3VFo .collapsed button.navbar-toggler {
   display: block;
@@ -3119,6 +3139,11 @@ section.lazy-placeholder:after {
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 1024px) {
+  .cid-rKKg0E3VFo .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-rKKg0E3VFo .collapsed button.navbar-toggler {
   display: block;
 }
@@ -3663,6 +3688,11 @@ section.lazy-placeholder:after {
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-rKKg0E3VFo .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rKKg0E3VFo .collapsed button.navbar-toggler {
   display: block;
@@ -4217,6 +4247,11 @@ section.lazy-placeholder:after {
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rKKg0E3VFo .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 1024px) {
+  .cid-rKKg0E3VFo .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rKKg0E3VFo .collapsed button.navbar-toggler {
   display: block;
